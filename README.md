@@ -33,13 +33,13 @@ google colab https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=
 visual studio https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 -->
 ### Hey, I'm Emily 👋
-Github [] Leetcode [] Linkedin [] Resume []
+Github [] Leetcode [] Linkedin [] Email []
 
 --- 
 
 ### Technologies and Tools:
-Python [] R [] C++[] java [] postgresql [] tensorflow [] aws [] 
-google colab [] visual studio [] linux [] ubuntu [] windows []
+Python [] R [] C++ [] java [] postgresql [] Tensorflow [] AWS [] 
+Google Colab [] Visual Studio [] Linux [] Ubuntu [] Windows []
 
 ---
 
