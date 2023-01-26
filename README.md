@@ -18,10 +18,10 @@ Currently this github is still under construction, but new items and projects wo
 - 💬 Ask me about ...
 - 📫 How to reach me: emily.chn@outlook.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: ...
 
 ---
-
+# TO-DO:
 
 - [x] Set up Github site
 - [x] Set up Github profile README
