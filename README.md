@@ -1,5 +1,3 @@
-### Hey, I'm Emily 👋
-
 <!--
 **emilc-jpg/emilc-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,11 +31,17 @@ aws https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amaz
 
 google colab https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252
 visual studio https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
-
-
 -->
+### Hey, I'm Emily 👋
+Github [] Leetcode [] Linkedin [] Resume []
 
+--- 
 
+### Technologies and Tools:
+Python [] R [] C++[] java [] postgresql [] tensorflow [] aws [] 
+google colab [] visual studio [] linux [] ubuntu [] windows []
+
+---
 
 Hello there! I'm a data scientist and statistical data science engineer that dabbles in anomoly detection, fraud, and ML applications in the cloud and AWS.
 
@@ -52,6 +56,7 @@ Currently this github is still under construction, but new items and projects wo
 - 📫 How to reach me: emily.chn@outlook.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
+
 
 ---
 ##### TO-DO:
