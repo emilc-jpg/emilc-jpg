@@ -10,11 +10,6 @@ Hello there! I'm a data scientist and statistical data science engineer that dab
 
 Currently this github is still under construction, but new items and projects would be coming very soon.
 
-- [x] Set up Github site
-- [x] Set up Github profile README
-- [ ] Polish Github profile README
-- [ ] Reformat projects for easy info guides
-- [ ] Upload projects 
 
 - 🔭 I’m currently working on updating my professional work!
 - 🌱 I’m currently learning Git,SQL
@@ -23,4 +18,13 @@ Currently this github is still under construction, but new items and projects wo
 - 💬 Ask me about ...
 - 📫 How to reach me: emily.chn@outlook.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
+
+---
+
+
+- [x] Set up Github site
+- [x] Set up Github profile README
+- [ ] Polish Github profile README
+- [ ] Reformat projects for easy info guides
+- [ ] Upload projects 
