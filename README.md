@@ -21,7 +21,7 @@ Currently this github is still under construction, but new items and projects wo
 - ⚡ Fun fact: ...
 
 ---
-# TO-DO:
+##### TO-DO:
 
 - [x] Set up Github site
 - [x] Set up Github profile README
