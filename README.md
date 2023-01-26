@@ -38,7 +38,7 @@ Github [] Leetcode [] Linkedin [] Email []
 --- 
 
 ### Technologies and Tools:
-Python [] R [] C++ [] java [] postgresql [] Tensorflow [] AWS [] 
+Python [] R [] C++ [] Java [] Postgresql [] Tensorflow [] AWS [] 
 Google Colab [] Visual Studio [] Linux [] Ubuntu [] Windows []
 
 ---
