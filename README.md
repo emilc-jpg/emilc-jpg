@@ -1,11 +1,9 @@
 # Heya, I'm Emily Chen <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 <img width="400" height="475" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif?raw=true" align=right>
 
-[<img src="https://img.shields.io/badge/Github Pages-8B89CC?style=for-the-badge&logo=GitHub_Pages&logoColor=white">](https://emilc-jpg.github.io/)
+[<img src="https://img.shields.io/badge/Github Pages-8B89CC?style=for-the-badge&logo=GitHub-Pages&logoColor=white">](https://emilc-jpg.github.io/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/echen4/)
 [<img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=Mail.Ru&logoColor=white">](mailto:emily.chn@outlook.com)
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 
 I'm Emily, a **machine learning** and **statistical data science engineer** that dabbles in anomoly detection, fraud, and ML applications in the cloud. I love learning 🌱, design 🎨,  and just making things make sense 🤯. 
