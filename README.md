@@ -8,7 +8,6 @@ linux https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&l
 ubuntu https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 windows https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 
-postgresql https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 tensorflow https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 aws https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
 google colab https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252
@@ -18,7 +17,7 @@ image links [<img src="http://www.google.com.au/images/nav_logo7.png">](http://g
 images ![alt text](image.jpg)
 -->
 ### Hey, I'm Emily 👋
-<--[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/emilc-jpg) -->
+<!--[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/emilc-jpg) -->
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://emilc-jpg.github.io/)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">](https://leetcode.com/echen04/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/echen4/)
@@ -26,16 +25,13 @@ images ![alt text](image.jpg)
 --- 
 
 ### Technologies and Tools:
-##### Programming Languages
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-
-##### Utilities
-Postgresql [] Tensorflow [] AWS [] 
-Google Colab [] Visual Studio [] Linux [] Ubuntu [] Windows []
+AWS [] Google Colab [] Visual Studio [] Linux [] Ubuntu [] Windows []
 
 ---
 
