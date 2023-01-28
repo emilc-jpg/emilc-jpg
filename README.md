@@ -10,28 +10,25 @@ I'm Emily, a **machine learning** and **statistical data science engineer** that
 
 - ✍️ Currently: Updating my professional work
 - 👀 Looking for: Full-time data science or machine learning position. [Emily Chen Resume](https://drive.google.com/uc?export=download&id=1iTXauREtawshwmYSlwjEgkYSI6FjqMma) (PDF download)
-
-Feel free to contact me 💬 through Linkedin or [email](mailto:emily.chn@outlook.com) to talk about AI in art or show some cool UI designs!
+- 💬 Contact me: through Linkedin or [email](mailto:emily.chn@outlook.com) to talk about AI in art or show some cool UI designs!
 
 *At the moment, this github is still under construction, but new items and projects would be coming very soon!*
 
 --- 
 ### Technologies and Tools 🚀:
-#### Languages 🛠️
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
 
-#### Tech Stack 🔧
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![PostGreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![Scikit]()
-![OpenCV]()
-![Pytorch]()
-![Docker]()
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 
 ---
