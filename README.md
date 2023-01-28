@@ -1,3 +1,43 @@
+# Heya, I'm Emily Chen 👋
+I am a machine learning and statistical data science engineer that dabbles in anomoly detection, fraud, and ML applications in the cloud and AWS.
+I love design, learning, and just making things make sense. Feel free to reach out to me to talk about AI in art or show some cool designs!
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/echen4/)
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://emilc-jpg.github.io/)
+[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">](https://leetcode.com/echen04/)
+
+
+- Currently working on updating my professional work! 
+- Looking for: a full-time data science or machine learning position. Resume: [Emily Chen Resume](https://drive.google.com/uc?export=download&id=1iTXauREtawshwmYSlwjEgkYSI6FjqMma) (PDF download)
+
+
+At the moment, this github is still under construction, but new items and projects would be coming very soon.
+
+--- 
+
+### Technologies and Tools:
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+
+![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+---
+### TO-DO:
+
+- [x] Set up Github site
+- [x] Set up Github profile README
+- [ ] Clean up and organize email accounts, files, and drives. 
+- [ ] Polish Github profile README
+- [ ] Reformat projects for easy info guides
+- [ ] Upload projects 
+
+
+
+
 <!--
 **emilc-jpg/emilc-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,35 +58,13 @@ images ![alt text](image.jpg)
 
 
 AWS [] Google Colab [] Visual Studio [] Linux [] Ubuntu [] Windows []
--->
-## Hey, I'm Emily 👋
 <img src="https://codebots.com/artificial-intelligence/DT-564_codebots-blog-lrg.png">
+https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/phone-on.gif
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/echen4/)
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://emilc-jpg.github.io/)
-[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">](https://leetcode.com/echen04/)
-
---- 
-
-### Technologies and Tools:
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
-
-![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-
----
 ### About me:
 
-Hello there! I'm a data scientist and statistical data science engineer that dabbles in anomoly detection, fraud, and ML applications in the cloud and AWS.
-
-Resume: [Emily Chen Resume](https://drive.google.com/uc?export=download&id=1iTXauREtawshwmYSlwjEgkYSI6FjqMma) (PDF download)
 
 Currently this github is still under construction, but new items and projects would be coming very soon.
-
 
 - 🔭 I’m currently working on updating my professional work!
 - 🌱 I’m currently learning Git, SQL
@@ -57,12 +75,4 @@ Currently this github is still under construction, but new items and projects wo
 - ⚡ Fun fact: ...
 
 
----
-### TO-DO:
-
-- [x] Set up Github site
-- [x] Set up Github profile README
-- [ ] Clean up and organize email accounts, files, and drives. 
-- [ ] Polish Github profile README
-- [ ] Reformat projects for easy info guides
-- [ ] Upload projects 
+-->
