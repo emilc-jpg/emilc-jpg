@@ -16,7 +16,7 @@ visual studio https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-t
 image links [<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/) []
 images ![alt text](image.jpg)
 -->
-<img src="https://codebots.com/artificial-intelligence/DT-564_codebots-blog-lrg.png" width="700" height="300" />
+<img src="https://codebots.com/artificial-intelligence/DT-564_codebots-blog-lrg.png">
 
 ### Hey, I'm Emily 👋
 <!--[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/emilc-jpg) -->
