@@ -1,5 +1,5 @@
 # Heya, I'm Emily Chen 👋
-<img width="450" height="700" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen%20open.gif?raw=true" align=right>
+<img width="450" height="700" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif?raw=true" align=right>
 
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://emilc-jpg.github.io/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/echen4/)
