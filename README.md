@@ -19,12 +19,12 @@ images ![alt text](image.jpg)
 
 AWS [] Google Colab [] Visual Studio [] Linux [] Ubuntu [] Windows []
 -->
+## Hey, I'm Emily 👋
 <img src="https://codebots.com/artificial-intelligence/DT-564_codebots-blog-lrg.png">
 
-## Hey, I'm Emily 👋
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/echen4/)
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://emilc-jpg.github.io/)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">](https://leetcode.com/echen04/)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/echen4/)
 
 --- 
 
