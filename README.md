@@ -21,7 +21,6 @@ python https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=pytho
 r https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
 c++ https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 java  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-html  https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 
 postgresql https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 
@@ -31,14 +30,23 @@ aws https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amaz
 
 google colab https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252
 visual studio https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+
+image links
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/) []
+images
+![alt text](image.jpg)
 -->
 ### Hey, I'm Emily 👋
 Github [] Leetcode [] Linkedin [] Email []
 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/echen4/)
+
 --- 
 
 ### Technologies and Tools:
-Python [] R [] C++ [] Java [] Postgresql [] Tensorflow [] AWS [] 
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+Postgresql [] Tensorflow [] AWS [] 
 Google Colab [] Visual Studio [] Linux [] Ubuntu [] Windows []
 
 ---
