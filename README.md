@@ -16,6 +16,7 @@ visual studio https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-t
 image links [<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/) []
 images ![alt text](image.jpg)
 -->
+<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
 ### Hey, I'm Emily 👋
 <!--[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/emilc-jpg) -->
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://emilc-jpg.github.io/)
@@ -37,16 +38,17 @@ AWS [] Google Colab [] Visual Studio [] Linux [] Ubuntu [] Windows []
 
 Hello there! I'm a data scientist and statistical data science engineer that dabbles in anomoly detection, fraud, and ML applications in the cloud and AWS.
 
+Resume: [Emily Chen Resume](https://resume.christinakopecky.com) (PDF download)
+
 Currently this github is still under construction, but new items and projects would be coming very soon.
 
 
 - 🔭 I’m currently working on updating my professional work!
-- 🌱 I’m currently learning Git,SQL
+- 🌱 I’m currently learning Git, SQL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: emily.chn@outlook.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
 
