@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=Mail.Ru&logoColor=white">](mailto:emily.chn@outlook.com)
 
 
-I'm Emily, a **machine learning** and **statistical data science engineer** that dabbles in anomoly detection, fraud, and ML applications in the cloud. I love learning 🌱, design 🎨,  and just making things make sense 🤯. 
+I'm Emily, a **machine learning** and **statistical data science engineer** that dabbles in anomoly detection, fraud, and ML applications in the cloud.  I love learning 🌱, design 🎨,  and just making things make sense 🤯. 
 
 - ✍️ Currently: Updating my professional work
 - 👀 Looking for: Full-time data science or machine learning position. [Emily Chen Resume](https://drive.google.com/uc?export=download&id=1iTXauREtawshwmYSlwjEgkYSI6FjqMma) (PDF download)
