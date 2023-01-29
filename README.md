@@ -34,9 +34,8 @@ I'm Emily, a **machine learning** and **statistical data science engineer** that
 ---
 ### To-Do ✔️:
 - [x] Set up Github site
-- [x] Set up Github profile README
+- [x] Set up & polish Github profile README
 - [ ] Clean up and organize email accounts, files, and drives. 
-- [ ] Polish Github profile README
 - [ ] Reformat projects for easy info guides
 - [ ] Upload projects 
 
