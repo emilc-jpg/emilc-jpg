@@ -1,8 +1,6 @@
 # Heya, I'm Emily Chen <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 <img width="400" height="450" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif?raw=true" align=right>
 
-![](https://komarev.com/ghpvc/?username=emilc-jpg&color=yellow) 
-
 [<img src="https://img.shields.io/badge/Github Pages-8B89CC?style=for-the-badge&logo=GitHub&logoColor=white">](https://emilc-jpg.github.io/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/echen4/)
 [<img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=Mail.Ru&logoColor=white">](mailto:emily.chn@outlook.com)  
@@ -42,6 +40,9 @@ I'm Emily, a **machine learning** and **statistical data science engineer** that
 
 <!--
 **emilc-jpg/emilc-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+profile views
+![](https://komarev.com/ghpvc/?username=emilc-jpg&color=yellow) 
 
 profile badges
 https://github.com/Envoy-VC/awesome-badges
