@@ -37,6 +37,8 @@ I'm Emily, a **machine learning** and **statistical data science engineer** that
 - [x] Set up & polish Github profile README
 - [ ] Reformat projects for easy info guides
 
+[![Emily's Medium](https://github-readme-medium.vercel.app/?username=EmilC)](https://medium.com/@EmilC) 
+![Profile views](https://gpvc.arturio.dev/[emilc-jpg])
 
 
 
