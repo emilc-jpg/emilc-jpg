@@ -5,6 +5,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/echen4/)
 [<img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=Mail.Ru&logoColor=white">](mailto:emily.chn@outlook.com)
 
+![](https://komarev.com/ghpvc/?username=emilc-jpg&color=yellow)
 
 I'm Emily, a **machine learning** and **statistical data science engineer** that dabbles in anomoly detection, fraud, and ML applications in the cloud.  I love learning 🌱, design 🎨,  and just making things make sense 🤯. 
 
@@ -36,10 +37,6 @@ I'm Emily, a **machine learning** and **statistical data science engineer** that
 - [x] Set up Github Pages site
 - [x] Set up & polish Github profile README
 - [ ] Reformat projects for easy info guides
-
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=EmilC)](https://medium.com/@omidnikrah)
-
-![](https://komarev.com/ghpvc/?username=emilc-jpg&color=yellow)
 
 
 <!--
