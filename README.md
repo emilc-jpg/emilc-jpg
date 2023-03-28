@@ -9,7 +9,7 @@
 I'm Emily, a **machine learning** and **statistical data science engineer** that dabbles in anomoly detection, fraud, and ML applications in the cloud.  I love learning 🌱, design 🎨,  and just making things make sense 🤯. 
 
 - ✍️ Currently: Updating my professional work
-- 👀 Looking for: Full-time data science or machine learning position. [Emily Chen Resume](https://drive.google.com/uc?export=download&id=1tlrlGLi9aTU6R-8DqYmJiYlv0yTnNrr0) (PDF download)
+- 👀 Looking for: Full-time data science or machine learning position. [Emily Chen Resume](https://drive.google.com/uc?export=download&id=1PdIM9LQxJ3AH5txbgjbufFJiGIxsXZPJ) (PDF download)
 - 💬 Contact me: through Linkedin or [email](mailto:emily.chn@outlook.com) to talk about AI in art or show some cool UI designs!
 
 *At the moment, this github is still under construction, but new items and projects would be coming very soon!*
@@ -35,6 +35,7 @@ I'm Emily, a **machine learning** and **statistical data science engineer** that
 ### To-Do ✔️:
 - [x] Set up Github Pages site
 - [x] Set up & polish Github profile README
+- [ ] Personalize Github Pages
 - [ ] Reformat projects for easy info guides
 
 
